@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Galindo</h1>
-<h3 align="center">I'm passionate about business inteligence, data and technology.</h3>
+<h3 align="center">I'm passionate about business inteligence, data and technology and learning. I'm based on Bogota, Colombia. </h3>
 
 - 🌱 I’m currently learning **Data Science**
 
