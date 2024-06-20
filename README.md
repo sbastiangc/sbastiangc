@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Galindo</h1>
-<h3 align="center">I'm passionate about business intelligence, Machine Learning, Data Management and learning. I'm based on Bogota, Colombia. </h3>
+<h3 align="center">I'm passionate about Business Intelligence, Machine Learning, Data Management and Learning. I'm based on Bogota, Colombia. </h3>
 
 - 🌱 I’m currently learning **Data Science**
 
