@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Galindo</h1>
 <h3 align="center">I'm passionate about Business Intelligence, Machine Learning, Data Management and Learning. I'm based on Bogota, Colombia. </h3>
 
-- 🌱 I’m currently learning **Unsupervised learning ML**, i'am eager to be able to apply my new knowledge in Machine Learning and Data Science.**
+- 🌱 I’m currently learning **Unsupervised learning ML**, I'm eager to be able to apply my new knowledge in Machine Learning and Data Science.**
 
 - 📫 **How to reach** me sebastiangalindoc@gmail.com
 
