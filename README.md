@@ -27,6 +27,9 @@ ___
 [![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
 
 
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
+
 
 
 
