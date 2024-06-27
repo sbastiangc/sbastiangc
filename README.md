@@ -19,7 +19,7 @@ ___
 
 ## 💻 Tecnologies
 [![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)]()
-[![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/power_bi-000000?style=for-the-badge&logo=power_bi&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
